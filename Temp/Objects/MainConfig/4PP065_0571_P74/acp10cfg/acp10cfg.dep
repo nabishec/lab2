@@ -1,0 +1,3 @@
+$(AS_PROJECT_PATH)/\physical\mainconfig\4pp065_0571_p74\motion\acp10cfg.ncc
+$(AS_PROJECT_PATH)/\physical\mainconfig\hardware.hw
+$(AS_PROJECT_PATH)/\physical\mainconfig\4pp065_0571_p74\motion\acp10map.ncm

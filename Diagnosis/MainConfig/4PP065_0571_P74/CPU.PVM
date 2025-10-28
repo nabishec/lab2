@@ -1,0 +1,12 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName= 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=3 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                   LedSM                          LedStateMashine    0 "                                                               *"    0   24    1    0    0    1         
+                                   state                                     UINT    0 "                                                               3"    1    6    1   10    0    0         
+                                  DoorSM                         DoorStateMashine    0 "                                                               *"    0   24    1    0    0    1         
+                                   state                                     UINT    0 "                                                               3"    1    6    1   10    0    0         
+                                     sw1                                     BOOL    1 "                                                           FALSE"    1    1    1    2    0    0         
+                                     sw2                                     BOOL    1 "                                                           FALSE"    1    1    1    2    0    0         
+                                     sw3                                     BOOL    1 "                                                           FALSE"    1    1    1    2    0    0         
+                                     sw4                                     BOOL    1 "                                                            TRUE"    1    1    1    2    0    0         
+                               direction                                     BOOL    1 "                                                           FALSE"    1    1    1    2    0    0         
